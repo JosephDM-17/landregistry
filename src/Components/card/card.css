@@ -1,0 +1,23 @@
+.card{
+    border:none;
+    display: flex;
+    flex-direction: column;
+    border-radius:5px;
+    padding: 10px;
+    margin-top:15px;
+    align-items:center;
+    width:300px;
+    margin-left:20px;
+    text-align: center;
+    background-color:rgb(198, 162, 255);
+
+}
+
+.house_image{
+    border: 3px solid black;
+    border-radius: 4px;
+}
+
+.card-title{
+    font-size: 20px;
+}

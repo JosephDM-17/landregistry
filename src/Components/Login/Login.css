@@ -1,0 +1,35 @@
+.outer_container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:auto;
+
+}
+
+.auth_img{
+    padding-top:20px;
+
+}
+
+a {
+    color: #000; /* sets the color of the text */
+    text-decoration: none; /* removes underline */
+    font-weight: bold; /* sets the font weight to bold */
+  }
+
+.button{
+/* border: solid 2px #444; */
+  font-size:20px;
+  padding: 20px 40px 20px 70px;
+  margin-top:40px;
+  background: #dd6e2e;
+  background-image: url("C:\landfi\src\assets\mm.png");
+  background-size: 40px;
+  background-repeat: no-repeat;
+  background-position: 20px;
+  font-weight: bold;
+  color: #fff;
+  box-shadow: inset 2px 2px 0 #fff, 0 8px 10px -4px rgba(0,0,0,0.4);
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
